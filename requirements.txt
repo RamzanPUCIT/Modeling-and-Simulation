@@ -1,0 +1,6 @@
+# Core scientific computing (optional – for plotting and extended analysis)
+numpy>=1.24
+matplotlib>=3.7
+
+# Jupyter notebook support (optional – for interactive exploration)
+notebook>=7.0
